@@ -1,12 +1,13 @@
 # .github
-Default BlaylockLLC Org files for readme, config, workflow, issue_templates, actions, etc.
+__Work-In-Progress__
+BlaylockLLC Org public files for readme, config, workflow, issue_templates, actions, etc.
 
-# General  
-Concentration on Improving communication for HW/Firmware Development.  
+# In General  
+Concentrate on improving effective communication for HW/Firmware development.  
 Github becomes the UI through which we interact with DevSecOps
-	Each Stage has its own audience.
-	Each Stage needs a different but functionally consistent user interface.
-	Each Stage minimally needs a Button, a LED, and a Decoder Ring.
+	* Each Stage has its own audience.
+	* Each Stage needs a different but functionally consistent user interface.
+	* Each Stage minimally needs a Button, a LED, and a Decoder Ring.
 
 	Implement Eisenhower matrix of Importance & Immediacy
 		00-Drop, 01-Delegate, 10-Delay, 11-Do
