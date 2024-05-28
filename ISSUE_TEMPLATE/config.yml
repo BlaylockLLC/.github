@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Community Support
+    url: https://github.com/BlaylockLLC/
+    about: If you have questions, reach out to our community for support.
+  - name: Report a Security Vulnerability
+    url: https://github.com/BlaylockLLC/
+    about: Please report security vulnerabilities here.
